@@ -1,3 +1,6 @@
+![Header](imageas/BannerBackground.jpg)
+
+
 <h1 align="center">Hi 👋, I'm WYN2404</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
