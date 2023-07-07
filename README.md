@@ -1,4 +1,4 @@
-![Header](images/BannerBackground.jpg)
+![Header](images/BannerBG.png)
 
 
 <h1 align="center">Hi 👋, I'm WYN2404</h1>
