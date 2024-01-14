@@ -1,6 +1,6 @@
 ![Header](images/BannerBG.png)
 
-> ⚡I love Family, Lover, Math, Universe, Programming language 🌌 - Me (WYN2404)
+> ⚡I'm a student and a freelance programmer~🌌 - Me (WYN2404)
 
 - 📫 Email: **quy66052@gmail.com**
 
