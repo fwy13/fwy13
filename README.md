@@ -1,7 +1,7 @@
 ![Header](images/BannerBG.png)
 > ⚡I love Family, Lover, Math, Universe, Programming language 🌌 - Me (WYN2404)
 
-- 📫 Email: **quy66052@gmail.com or quyhuynh1309@gmail.com**
+- 📫 Email: **quy66052@gmail.com **
 
 
 
