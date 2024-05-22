@@ -16,6 +16,6 @@
   </div>
   <div>
     <h1>OS</h1>
-    <span>Window, Arch Linux, Ubuntu, Zorin...</span>
+    <span>Window, Arch Linux, MacOS(Hackintosh:>), Ubuntu, Zorin...</span>
   </div>
 </div>
