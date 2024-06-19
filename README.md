@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/IamSeries/IamProgrammerEnglish.png)
 
-> <h3 align="center">Hi, therre 👋. I'm Wai1113_ .</h3>
+> <h3 align="center">Hi, therre 👋. I'm Fwy13_ .</h3>
 
 - 📫 Email: **quy66052@gmail.com**
 - I'm a student and developer open-source projects.
@@ -17,7 +17,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## IDE
-![Visual-Studio-Code](https://i.gzn.jp/img/2024/05/01/sawaratsuki-kawaii-logo/sawaratsuki_kawaii_uwu_logo_04_m.png)
+- VS Code.
+- Zed (sometime).
 
 ## OS
 - Window.
