@@ -16,9 +16,9 @@
 </div>
 
 </td>
-<td valign="middle" width="50%" align="center">
+<td valign="middle" width="100%" align="center">
 
-<img src="https://azurlane.netojuu.com/images/2/2d/KearsargeSpringWithoutBG.png" height="250" alt="Your photo" />
+<img src="https://azurlane.netojuu.com/images/2/2d/KearsargeSpringWithoutBG.png" height="1000" alt="Your photo" />
 
 </td>
   </tr>
