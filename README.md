@@ -4,13 +4,12 @@
   <tr>
     <td valign="middle" width="50%">
 
-<h3 align="center">Hi, there 👋. I'm Fwy13_ .</h3>
+<h2 align="center">Hi, i'm fwy13 .</h2>
 
 <div align="center">
-
-📫 **Email**: fwy13@duck.com
-
-## Programming languages
+<h3>fwy13@duck.com</h3>
+<div></div>
+<br />
 <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" />
 <br>
 <img alt="Typescript" src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
