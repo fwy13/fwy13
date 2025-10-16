@@ -3,7 +3,7 @@ I am a student at Can Tho University. I love to explore everything, can you shar
 
 📫: quy66052@gmail.com.
 
-### I use
+### 💻 I use
 
 - **📱 Mobile Apps:** Tauri (Rust)
 - **🧰 Full-Stack Web:** React, Vue, Svelte.
