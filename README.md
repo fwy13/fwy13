@@ -1,12 +1,16 @@
 # 👋 Hi, I'm Quy Huynh
 I am a student at Can Tho University. I love to explore everything, can you share with me some interesting things via email?
+📫: fwy13@duck.com.
 
-📫: quy66052@gmail.com.
+<div align="center">
+  
+  ![fwy13](https://count.getloli.com/get/@fwy13?theme=booru-helltaker)
+</div>
 
 ### 💻 I use
 
-- **📱 Mobile Apps:** Tauri (Rust)
-- **🧰 Full-Stack Web:** React, Vue, Svelte.
+- **📱 Mobile Apps:** Tauri (Rust), Kotlin.
+- **🧰 Web:** React, Vue, Svelte.
 - **📞 Api:** Express, Koa.
 
 ---
