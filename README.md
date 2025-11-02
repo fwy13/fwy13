@@ -18,9 +18,9 @@ I am a student at Can Tho University. I love to explore everything, can you shar
 
 ### 🛠️ Technology
 
-- **Programming Language:** Rust, Kotlin, TypeScript, JavaScript, C++
-- **IDE:** VS Code, Nvim, CodeBlock
-- **Env:** Arch-Base with Hyprland, Window
+- **Programming Language:** Rust, Kotlin, TypeScript, JavaScript.
+- **IDE:** VS Code, Nvim.
+- **Env:** Arch-Base with Hyprland, Window.
 <div align="center">
 
   ![Metrics](github-metrics.svg)
