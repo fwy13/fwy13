@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Quy Huynh
+# 👋 Hi, I'm Quy Huynh (Ethan Huynh)
 I am a student at Can Tho University. I love to explore everything, can you share with me some interesting things via email?
 
 📫: fwy13@duck.com.
