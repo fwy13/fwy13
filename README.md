@@ -8,19 +8,17 @@ I am a student at Can Tho University. I love to explore everything, can you shar
   ![fwy13](https://count.getloli.com/get/@fwy13?theme=booru-helltaker)
 </div>
 
-### 💻 I use
+### 💻 Use
 
 - **📱 Mobile Apps:** Tauri (Rust), Kotlin.
-- **🧰 Web:** React, Vue, Svelte.
-- **📞 Api:** Express, Koa.
-
+- **🧰 Web:** React, Vue, Svelte, HTML, CSS, JS, TS.
 ---
 
 ### 🛠️ Technology
 
 - **Programming Language:** Rust, Kotlin, TypeScript, JavaScript.
-- **IDE:** VS Code, Nvim.
-- **Env:** Arch-Base with Hyprland, Window.
+- **IDE:** VS Code, Zed, Nvim.
+- **Env:** Linux, Window.
 <div align="center">
 
   ![Metrics](github-metrics.svg)
