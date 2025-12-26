@@ -1,26 +1,44 @@
-# 👋 Hi, I'm Quy Huynh (Ethan Huynh)
-I am a student at Can Tho University. I love to explore everything, can you share with me some interesting things via email?
+# Hi there, I'm Quy Huynh! 👋
 
-📫: fwy13@duck.com.
+> 🤣 **From Silicon to Pixel: OSDev, Reverse Engineering & Full-stack Apps.**
 
-<div align="center">
-  
-  ![fwy13](https://count.getloli.com/get/@fwy13?theme=booru-helltaker)
-</div>
+I am a Systems & Application Engineer fascinated by low-level machinery and high-level UX. Whether it's writing a **kernel** from scratch for ARM/x64, **reverse engineering** binary protocols, or building polished **cross-platform apps**, I love understanding how computers work inside out.
 
-### 💻 Use
+I'm studying at CTU<3
 
-- **📱 Mobile Apps:** Tauri (Rust), Kotlin.
-- **🧰 Web:** React, Vue, Svelte, HTML, CSS, JS, TS.
 ---
 
-### 🛠️ Technology
+### 💻 Tech Stack
 
-- **Programming Language:** Rust, Kotlin, TypeScript, JavaScript.
-- **IDE:** VS Code, Zed, Nvim.
-- **Env:** Linux, Window.
+**Core & Systems**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-NASM%2FARM-555555?style=for-the-badge&logo=asm&logoColor=white)
+![Make](https://img.shields.io/badge/Make-008FBA?style=for-the-badge&logo=gnu&logoColor=white)
+
+**Application & Web**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
+
+**Tools & Research**
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
 
   ![Metrics](github-metrics.svg)
 </div>
+
+---
+
+### 📫 Connect with me
+* 💼 Email: fwy13@duck.com
+* 📝 Research Notes / Blog: https://fwy13.is-a-good.dev
+
 
