@@ -2,7 +2,7 @@
 
 > 🤣 **From Silicon to Pixel: OSDev, Reverse Engineering & Full-stack Apps.**
 
-I am a Systems & Application Engineer fascinated by low-level machinery and high-level UX. Whether it's writing a **kernel** from scratch for ARM/x64, **reverse engineering** binary protocols, or building polished **cross-platform apps**, I love understanding how computers work inside out.
+A naturally curious person who enjoys exploring and understanding how things work. I’m passionate about **web development**, **mobile applications**, and **system programming**. In addition, I have a strong interest in researching and developing **custom firmware** for various devices.
 
 I'm studying at CTU<3
 
