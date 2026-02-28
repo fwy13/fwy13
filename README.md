@@ -39,6 +39,6 @@ I'm studying at CTU<3
 
 ### 📫 Connect with me
 * 💼 Email: fwy13@duck.com
-* 📝 Research Notes / Blog: https://fwy13.is-a-good.dev
+* 📝 Research Notes / Blog: https://fwy13.github.io
 
 
