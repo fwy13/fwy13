@@ -1,8 +1,8 @@
 # Hi there, I'm Quy Huynh! 👋
 
-A naturally curious person who enjoys exploring and understanding how things work. I’m passionate about **web development**, **mobile applications**, and **system programming**. In addition, I have a strong interest in researching and developing **custom firmware** for various devices.
+I really love the **Rust** programming language and I'm currently learning it. 🦀
 
-I'm studying at CTU<3
+> Learning IT in CTU.
 
 ---
 
