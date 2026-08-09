@@ -7,4 +7,3 @@ I really love the **Rust** programming language and I'm currently learning it. �
 
 ### 📫 Contact
 * 💼 Email: fwy13@duck.com
-* 📝 Research Notes / Blog: https://fwy13.github.io
